@@ -1,0 +1,24 @@
+.bar1{
+    display: inline-block;
+    width: 8px;
+    background-color: orange;
+  border: 1px solid white;
+}
+
+.bar2{
+  display: inline-block;
+  width: 8px;
+  background-color: red;
+border: 1px solid white;
+}
+
+.load{
+  margin-top: 0%;
+}
+
+.load1{
+  margin-top:10%;
+  font-size: 400%;
+  font-weight: bolder;
+  color: blueviolet;
+}
